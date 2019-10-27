@@ -12,5 +12,4 @@ RUN npm install --only=production
 
 EXPOSE 8888
 
-ENTRYPOINT ["npm"]
-CMD ["start"]
+ENTRYPOINT ["npm", "start"]

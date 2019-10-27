@@ -1,5 +1,8 @@
 # PRÁCTICAS MÓDULO CLOUD
 
+Docker Hub: https://cloud.docker.com/repository/docker/mdraa/mastercloud
+Public DNS: ec2-18-204-206-1.compute-1.amazonaws.com
+
 ## Preparación
 
 * Cuenta de [Docker Hub](https://hub.docker.com/)
